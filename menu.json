@@ -1,0 +1,27 @@
+{ "menu":[
+  {
+		"name": "Meals",
+		"timing": "9:15-12:30,15:00-21:15,13:00-14:30",
+		"price": 45,
+		"description":"Rice and Sambar",
+		"categories": "breakfast",
+		"delivery": true
+	},
+	{
+		"name": "Dosa",
+		"timing": "10:15-12:30,15:00-18:15",
+		"price": 55,
+		"description":"",
+		"categories": "breakfast",
+		"delivery": true
+	},
+	{
+		"name": "Masalpuri",
+		"timing": "15:00-18:15",
+		"price": 25,
+		"description":"",
+		"categories": "snacks",
+		"delivery": true
+	}]
+
+}
